@@ -1,5 +1,6 @@
 # HR Analytics Project
-
+![HR Analytics Dashboard](./HR_dashboard.png)  
+*A visualization of BlinkIT analysis dashboard.*
 ## Overview
 
 This project demonstrates the use of HR Analytics to drive decision-making and improve workforce management. By leveraging data and various technical tools, the project achieved significant measurable results, including an improvement in retention strategies and a reduction in turnover risk.
